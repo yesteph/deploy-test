@@ -1,0 +1,3 @@
+[submodule "lib/capistrano/tasks"]
+	path = lib/capistrano/tasks
+	url = git@github.com:yesteph/cap-commons.git
